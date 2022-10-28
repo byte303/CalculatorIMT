@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Калькулятор ИМТ</string>
+
+    <string name="text_baner" translatable="false">ca-app-pub-8656092455522046/4533849258</string>
+    <string name="text_video" translatable="false">ca-app-pub-8656092455522046/2262909136</string>
+    <string name="text_reklama" translatable="false">ca-app-pub-8656092455522046~8473094264</string>
+
+    <string name="title_home">Главная</string>
+    <string name="title_history">История</string>
+    <string name="title_settings">Настройки</string>
+    <string name="weight">Вес:</string>
+    <string name="height">Рост:</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="calculator_ibm">Рассчитать ИМТ</string>
+    <string name="you_ibm">Ваш ИМТ</string>
+    <string name="minimum">Минимальный</string>
+    <string name="maximum">Максимальный</string>
+    <string name="ideal_weight">Идеальный вес для Вашего роста:</string>
+    <string name="calculator_bmi">Калькулятор ИМТ</string>
+
+    <string name="text_stadia_1">Согласно вашему ИМТ у вас выраженный дефицит массы тела</string>
+    <string name="text_stadia_2">Согласно вашему ИМТ у вас недостаточная масса тела (дефицит)</string>
+    <string name="text_stadia_3">Согласно вашему ИМТ у вас идеальный вес</string>
+    <string name="text_stadia_4">Согласно вашему ИМТ у вас избыточная масса тела (состояние, предшествующее ожирению)</string>
+    <string name="text_stadia_5">Согласно вашему ИМТ у вас ожирение 1-й степени</string>
+    <string name="text_stadia_6">Согласно вашему ИМТ у вас ожирение 2-й степени</string>
+    <string name="text_stadia_7">Согласно вашему ИМТ у вас ожирение 3-й степени</string>
+
+    <string name="not_weight">Вы не указали свой вес</string>
+    <string name="not_height">Вы не указали свой рост</string>
+
+    <string name="units">Единицы измерения</string>
+
+    <string-array translatable="false" name="array_height">
+        <item>cm</item>
+        <item>in</item>
+    </string-array>
+
+    <string-array translatable="false"  name="array_weight">
+        <item>kg</item>
+        <item>ib</item>
+    </string-array>
+
+    <string name="select_action">Выберите действие</string>
+
+    <string name="share">Поделиться</string>
+    <string name="delete">Удалить</string>
+
+    <string name="save">Сохранить</string>
+    <string name="data_save">Данные успешно сохранены!</string>
+    <string name="add_favorite">Показатели успешно добавлены в историю</string>
+    <string name="height_small">рост</string>
+    <string name="weight_small">вес</string>
+    <string name="you_stats">Ваши показатели составляют:</string>
+    <string name="history">История веса</string>
+    <string name="text_empty">На данный момент история Вашего веса пуста\n\nДля добавления истории, нажмите на значок сердечка в правом верхнем углу на главной странице</string>
+</resources>
